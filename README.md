@@ -315,7 +315,6 @@ Configurada em `src/PetFamily.API/appsettings.json`:
 | Nome | RM |
 |---|---|
 | Pedro Vaz | RM566551 |
+| João Victor Luiz Oliveira Resende | RM565139 |
 
 ---
-
-*Projeto desenvolvido para a disciplina Advanced Business Development with .NET — FIAP 2026*
